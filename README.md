@@ -16,7 +16,7 @@
 
   登陆界面
 
-  <img src="/Users/xinyiwu/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/f9ae1470b215fa2baa91ce61764c0b2d/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/Image/12031676857866_.pic.jpg" alt="12031676857866_.pic" style="zoom:40%;" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.jpeg" alt="12031676857866_.pic" style="zoom:40%;" />
 
   （学生端）查看面试结果
 
