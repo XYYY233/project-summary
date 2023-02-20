@@ -44,7 +44,7 @@
 
   （web端）
 
-  
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E7%A4%BE%E5%9B%A2-%E7%BD%91%E9%A1%B5%E7%AB%AF.png" alt="定期开发"  width="650"  />
 
 #### 2.考试资料包领取小程序
 
@@ -71,11 +71,11 @@
 
 - ##### 部分截图
 
-  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E8%B5%84%E6%96%99-%E9%A6%96%E9%A1%B5.png" alt="image-20230220100841491"  width="350" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E9%93%B6%E8%A1%8C%E6%9F%A5%E8%AF%A2-%E9%A6%96%E9%A1%B5.png" alt="image-20230220100841491"  width="350" />
 
-  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E8%B5%84%E6%96%99-%E6%9F%A5%E8%AF%A2.png" alt="image-20230220100958087"  width="350"  />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E9%93%B6%E8%A1%8C%E6%9F%A5%E8%AF%A2-1.png" alt="image-20230220100958087"  width="350"  />
 
-  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E8%B5%84%E6%96%99-%E6%9F%A5%E8%AF%A2.png" alt="image-20230220100958087"  width="350"  />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E9%93%B6%E8%A1%8C%E6%9F%A5%E8%AF%A2-2.png" alt="image-20230220100958087"  width="350"  />
 
 #### 4.**基于数据挖掘的在线广告点击率预测** 
 
