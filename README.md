@@ -10,6 +10,8 @@
 
    （小程序端）wxml+wxss+javascript+es6+vant-ui 
 
+- ##### 主要职责：负责小程序端前端开发
+
 - ##### 项目部分截图
 
   （小程序端）
@@ -40,11 +42,15 @@
 
   <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E5%AE%9A%E6%9C%9F%E5%BC%80%E6%94%BE.png" alt="定期开发"  width="350"  />
 
+  （web端）
+
+  
+
 #### 2.考试资料包领取小程序
 
 - ##### 项目简介
 
-    本项目是为高顿教育开发的考试资料领取小程序，主要功能包括查询资料，领取资料，预览资料pdf，前端由我独立完成。
+    本项目是为高顿教育开发的考试资料领取小程序，主要功能包括查询资料，领取资料，预览资料pdf，前端部分独立完成。
 
 - ##### 部分截图（因系统已关闭，暂无请求数据）
 
@@ -52,7 +58,26 @@
 
   <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E8%B5%84%E6%96%99-%E6%9F%A5%E8%AF%A2.png" alt="image-20230220100958087"  width="350"  />
 
-#### 3.**基于数据挖掘的在线广告点击率预测** 
+#### 3.银行岗位查询小程序
+
+- ##### 项目简介
+
+  - 本项目为用于查询银行招聘岗位要求的查询小工具，主要功能包括微信用户授权登陆，条件查询相应岗位信息。
+
+- ##### 主要职责：
+
+  - 系统页面的设计，插图banner设计和制作
+  - 前端部分开发
+
+- ##### 部分截图
+
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E8%B5%84%E6%96%99-%E9%A6%96%E9%A1%B5.png" alt="image-20230220100841491"  width="350" />
+
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E8%B5%84%E6%96%99-%E6%9F%A5%E8%AF%A2.png" alt="image-20230220100958087"  width="350"  />
+
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E8%B5%84%E6%96%99-%E6%9F%A5%E8%AF%A2.png" alt="image-20230220100958087"  width="350"  />
+
+#### 4.**基于数据挖掘的在线广告点击率预测** 
 
 - ##### 项目简介
 
