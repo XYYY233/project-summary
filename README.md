@@ -16,29 +16,29 @@
 
   登陆界面
 
-  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.jpeg" alt="12031676857866_.pic" style="zoom:40%;" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.jpeg" alt="12031676857866_.pic" style="zoom:20%;" />
 
   （学生端）查看面试结果
 
-  <img src="/Users/xinyiwu/Desktop/project/广外社团/3.8会员端首页+我的（部分）/3.8会员端首页+我的（部分）/会员-我的-面试结果@2x.png" alt="会员-我的-面试结果@2x" style="zoom:50%;" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E4%BC%9A%E5%91%98-%E6%88%91%E7%9A%84-%E9%9D%A2%E8%AF%95%E7%BB%93%E6%9E%9C%402x.png" alt="会员-我的-面试结果@2x" style="zoom:20%;" />
 
   （学生端）面试通过选择加入社团
 
-  <img src="/Users/xinyiwu/Desktop/project/广外社团/3.8会员端首页+我的（部分）/3.8会员端首页+我的（部分）/会员-我的-选择社团@2x.png" alt="会员-我的-选择社团@2x" style="zoom:50%;" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E4%BC%9A%E5%91%98-%E6%88%91%E7%9A%84-%E9%9D%A2%E8%AF%95%E7%BB%93%E6%9E%9C%402x.png" alt="会员-我的-选择社团@2x" style="zoom:20%;" />
 
   （学生端）面试结果
 
-  <img src="/Users/xinyiwu/Desktop/project/广外社团/3.8会员端首页+我的（部分）/面试/面试结果.png" alt="面试结果" style="zoom:50%;" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E9%9D%A2%E8%AF%95%E7%BB%93%E6%9E%9C.png" alt="面试结果" style="zoom:20%;" />
 
   （教师端、指导单位端）审批社团活动
 
-  <img src="/Users/xinyiwu/Desktop/project/广外社团/3.12管理员端-活动总览修改/管理员-指导单位-活动审批@2x.png" alt="管理员-指导单位-活动审批@2x" style="zoom:50%;" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E7%AE%A1%E7%90%86%E5%91%98-%E7%A4%BE%E5%9B%A2%E7%AE%A1%E7%90%86%E8%80%85-%E6%B4%BB%E5%8A%A8%E6%80%BB%E8%A7%88%402x.png" alt="管理员-指导单位-活动审批@2x" style="zoom:20%;" />
 
   （社联端）定期开放系统招新日期
 
   
 
-  <img src="/Users/xinyiwu/Desktop/project/广外社团/2.22定期开放+未开放功能插画/定期开放/定期开发.png" alt="定期开发" style="zoom:50%;" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E5%AE%9A%E6%9C%9F%E5%BC%80%E6%94%BE.png" alt="定期开发" style="zoom:20%;" />
 
 #### 2.考试资料包领取小程序
 
@@ -48,9 +48,9 @@
 
 - ##### 部分截图（因系统已关闭，暂无请求数据）
 
-  <img src="/Users/xinyiwu/Library/Application Support/typora-user-images/image-20230220100841491.png" alt="image-20230220100841491" style="zoom:50%;" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E8%B5%84%E6%96%99-%E9%A6%96%E9%A1%B5.png" alt="image-20230220100841491" style="zoom:20%;" />
 
-  <img src="/Users/xinyiwu/Library/Application Support/typora-user-images/image-20230220100958087.png" alt="image-20230220100958087" style="zoom:50%;" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E8%B5%84%E6%96%99-%E6%9F%A5%E8%AF%A2.png" alt="image-20230220100958087" style="zoom:20%;" />
 
 #### 3.**基于数据挖掘的在线广告点击率预测** 
 
