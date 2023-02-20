@@ -16,7 +16,7 @@
 
   登陆界面
 
-  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.jpeg" alt="12031676857866_.pic" style="zoom:5%;"  width="200" height="200" />
+  <img src="https://github.com/XYYY233/project-summary/blob/main/image/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.jpeg" alt="12031676857866_.pic" style="zoom:5%;"  width="400"  />
 
   （学生端）查看面试结果
 
